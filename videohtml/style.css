@@ -1,0 +1,35 @@
+#videoo {
+ width: 402.4px;
+ height: 386px;
+ margin: 20px auto;
+ background: #fc3;
+ padding:10px 10px 37px;
+ border: 2px solid rgb(101, 120, 158);
+ border-radius: 5px;
+}
+
+nav{
+    margin:5px 0;
+}
+
+#botones{
+    float: left;
+    width: 41px;
+    height: 21px;
+    background-color: rgb(235, 180, 0);
+}
+
+#barra{
+    background: #ffffff;
+    width: 302.4px;
+    height: 16px;
+    border:1px solid #666;
+    margin-left: 70px;
+}
+
+#progreso{
+    position: absolute;
+    width: 0px;
+    height: 16px;
+    background: rgba(56, 50, 213, 0.551);
+}
